@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=React+%7C+JavaScript+%7C+Python+%7C+C%23+%7C+C%2B%2B+%7C+Java" alt="Technologies" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,django,dotnet,java,cpp,js,python,cs,mysql" />
+</p>
 
 ---
 
