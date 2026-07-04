@@ -1,74 +1,311 @@
-# **Blessings B Chongo**  
-### **Full-Stack Developer & Open-Source Enthusiast**  
-🚀 Crafting Digital Experiences | Solving Problems with Code  
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=React+%7C+JavaScript+%7C+Python+%7C+C%23+%7C+C%2B%2B+%7C+Java" alt="Technologies" />
+# 👋 Hi, I'm Blessings B. Chongo
+
+### Full-Stack Software Engineer • AI Systems Engineer • Open Source Contributor • Community Builder
+
+> *Building software that doesn't just work — software that thinks, scales, and solves real-world problems.*
+
+<p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;AI+Systems+Developer;Cloud+%7C+Backend+%7C+Machine+Learning;Building+Reliable+Software+Since+2022;Always+Learning.+Always+Building."/>
+
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,django,dotnet,java,cpp,js,python,cs,mysql" />
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,react,vue,django,dotnet,java,spring,cpp,cs,js,ts,docker,postgres,mysql,azure,gcp,git,github"/>
+
 </p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/blessingsblessedchongo)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:blessingsblessedchongo@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=blessingsblessedchongo\&style=for-the-badge\&color=blueviolet)
+
+</div>
 
 ---
 
-## **👋 Hello World!**  
-I'm **Blessings Blessed Chongo**, a passionate developer who loves turning ideas into functional, beautiful applications. My code is my craft, and I strive to make every line meaningful.
+# 💫 Who Am I?
 
-🔹 **Tech Stack:**  
+I'm a **Full-Stack Software Engineer** passionate about engineering intelligent software that creates measurable impact.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-</p>
+Whether I'm designing distributed backend services, building modern web applications, experimenting with artificial intelligence, or leading technical communities, my focus remains the same:
+
+> **Build elegant solutions for difficult problems.**
+
+I enjoy turning ambitious ideas into production-ready software by combining strong engineering fundamentals with modern technologies.
+
+My experience spans the entire software development lifecycle—from gathering requirements and architecting systems to deployment, testing, optimization, and continuous improvement.
 
 ---
 
-## **💡 What I Do**  
-- 🌐 **Frontend:** Building responsive UIs with React & modern JavaScript  
-- ⚙️ **Backend:** Developing scalable services in Python, C#, and Java  
-- 🧠 **Algorithms:** Solving complex problems with optimized C++ code  
-- 🛠️ **Open Source:** Contributing to meaningful projects  
+# 🚀 What Drives Me
 
+I don't enjoy writing code simply because it's code.
 
+I enjoy solving problems.
 
-## **📊 GitHub Stats**  
+Every project is an opportunity to answer questions like:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blessingsblessedchongo&show_icons=true&theme=radical" alt="Blessings's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessingsblessedchongo&layout=compact&theme=radical" alt="Top Languages" width="40%" /> 
-</p>
+* How can this system become faster?
+* How can it scale to thousands of users?
+* How can it become autonomous?
+* How can developers maintain it five years from now?
+* How can technology genuinely improve someone's workflow?
 
----
-
-## **🌱 Currently Learning**  
-- Advanced React Patterns  
-- Machine Learning with Python  
-- Cloud Architecture (Azure)
-- DataScience
-- DevOps Engineering
+Those questions influence every architectural decision I make.
 
 ---
 
-## **📫 Let's Connect!**  
-<p align="left">
-  <a href="mailto:blessingsblessedchongo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/blessings-chongo-0a591435a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-</p>
+# ⚡ Engineering Interests
+
+Artificial Intelligence
+Backend Engineering
+Software Architecture
+Distributed Systems
+Cloud Computing
+Machine Learning
+Cybersecurity
+Blockchain
+Developer Experience
+Automation
 
 ---
 
-### **✨ "First solve the problem, then write the code."**  
-*– John Johnson (adapted)*  
+# 🛠 Technical Toolbox
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blessingsblessedchongo&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+## Languages
+
+Python • TypeScript • JavaScript • C# • Java • C++ • PHP
+
+## Frontend
+
+⚛ React
+
+🟢 Vue.js
+
+🎨 Tailwind CSS
+
+HTML5
+
+CSS3
+
+## Backend
+
+🐍 Django
+
+Flask
+
+ASP.NET
+
+Spring Boot
+
+REST APIs
+
+GraphQL
+
+Microservices
+
+Authentication & Authorization
+
+## AI Engineering
+
+PyTorch
+
+Scikit-learn
+
+Machine Learning Pipelines
+
+Reinforcement Learning
+
+Data Processing
+
+Predictive Systems
+
+## Databases
+
+PostgreSQL
+
+MySQL
+
+SQLite
+
+MongoDB
+
+## Cloud & DevOps
+
+Docker
+
+Azure
+
+Google Cloud
+
+GitHub Actions
+
+Linux
+
+Git
+
+CI/CD
+
+---
+
+# 🌟 Featured Projects
+
+## 🧠 NeuroSynapse
+
+### AI-Powered Self-Healing Network Intelligence System
+
+Imagine a network capable of identifying failures, diagnosing root causes, deciding the best recovery strategy, and healing itself—all without human intervention.
+
+That is exactly what NeuroSynapse aims to achieve.
+
+### Highlights
+
+✅ Real-time anomaly detection
+
+✅ Automated fault diagnosis
+
+✅ Reinforcement-learning recovery engine
+
+✅ Dockerized deployment
+
+✅ Interactive monitoring dashboard
+
+✅ LAN-scale autonomous recovery
+
+**Tech Stack**
+
+Python • Django • Vue • Docker • PyTorch • Scikit-learn
+
+---
+
+## ⛓ CBU Central Stores Management System
+
+### Blockchain Inventory Management Platform
+
+Developed to modernize Copperbelt University's Central Stores through blockchain technology.
+
+The system replaces manual spreadsheet workflows with a transparent, tamper-proof inventory platform.
+
+### Features
+
+* Smart Contracts
+* Immutable Audit Logs
+* Digital Approval Workflow
+* Inventory Analytics
+* Role-Based Security
+* Department Integration
+
+---
+
+# 💼 Professional Experience
+
+### 🚀 Full-Stack Software Developer
+
+**Uniplexity AI**
+
+Worked across frontend, backend, databases, and AI-powered applications.
+
+Contributed to production systems while collaborating inside Agile engineering teams.
+
+---
+
+### 🧪 Software Engineer (QA)
+
+**GeoNova Labs**
+
+Improved software quality through rigorous testing, debugging, and release validation.
+
+Worked closely with developers to improve reliability before production deployment.
+
+---
+
+### 🌍 Freelance Software Engineer & QA
+
+Worked with international clients delivering
+
+* Web Applications
+* Mobile Testing
+* Bug Investigation
+* Performance Testing
+* Technical Solutions
+
+---
+
+# 👑 Leadership
+
+Technology is most powerful when knowledge is shared.
+
+Outside software engineering, I invest heavily in developer communities.
+
+### Current Roles
+
+👑 President — ICTAZ CBU Chapter
+
+🎓 Microsoft Learn Student Ambassador
+
+🎤 Google Developer Groups Speaker
+
+🌍 Open Source Contributor
+
+👨‍🏫 Technical Mentor
+
+Through these roles I've organized hackathons, workshops, certification bootcamps, developer meetups, and technical mentorship programs impacting hundreds of students.
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=blessingsblessedchongo&theme=tokyonight&hide_border=true" />
+
+</div>
+---
+
+# 🌱 Currently Learning
+
+* AI Agents
+* Multi-Agent Systems
+* Kubernetes
+* MLOps
+* Distributed Systems
+* Event-Driven Architecture
+* Cloud Native Engineering
+
+---
+
+# 🤝 Let's Build Something Great
+
+I'm always excited to collaborate on
+
+* Open Source
+* Research Projects
+* Artificial Intelligence
+* Full-Stack Applications
+* Backend Systems
+* Cloud Infrastructure
+* Startup Ideas
+* Developer Communities
+
+If you're building something meaningful, let's connect.
+
+---
+
+<div align="center">
+
+### 💭 Engineering Philosophy
+
+> *"Good software is more than code. It's thoughtful design, maintainable architecture, meaningful collaboration, and continuous learning."*
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+*"Code with purpose. Build with passion. Learn without limits."*
+
+</div>
