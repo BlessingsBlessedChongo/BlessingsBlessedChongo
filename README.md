@@ -18,7 +18,7 @@
 
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge)]()
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-blessingsbchongo-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tinyurl.com/blessingsbchongo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/blessingsblessedchongo)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:blessingsblessedchongo@gmail.com)
 
