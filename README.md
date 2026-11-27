@@ -1,311 +1,61 @@
 <div align="center">
 
-# 👋 Hi, I'm Blessings B. Chongo
+<a href="https://portfolio-repo-khaki.vercel.app"><img src="assets/header.svg" width="100%" alt="I build AI-powered products and payment systems that stay correct when things go wrong. Software Engineer and AI Engineer, open to remote, part-time and freelance work. 20 projects built, 5 live apps, 800+ students led, 15 events hosted." /></a>
 
-### Full-Stack Software Engineer • AI Systems Engineer • Open Source Contributor • Community Builder
+<br /><br />
 
-> *Building software that doesn't just work — software that thinks, scales, and solves real-world problems.*
+<a href="https://portfolio-repo-khaki.vercel.app"><img src="assets/btn-portfolio.png" height="44" alt="Portfolio" /></a>&nbsp;
+<a href="https://portfolio-repo-khaki.vercel.app/Blessings_Chongo_Resume.pdf"><img src="assets/btn-resume.png" height="44" alt="Resume" /></a>&nbsp;
+<a href="https://linkedin.com/in/blessingsblessedchongo"><img src="assets/btn-linkedin.png" height="44" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:blessingsblessedchongo@gmail.com"><img src="assets/btn-email.png" height="44" alt="Email" /></a>
 
-<p>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;AI+Systems+Developer;Cloud+%7C+Backend+%7C+Machine+Learning;Building+Reliable+Software+Since+2022;Always+Learning.+Always+Building."/>
+<br />
 
+## What I do
+
+<img src="assets/what-i-do.png" width="100%" alt="AI engineering: language models at work inside real products, reading receipts from photos, turning speech into data and answering with cited sources. Backend and payments: double-entry ledgers, idempotent APIs, signed webhooks and reconciliation, with the rules enforced by the database. Full-stack and mobile: React, Next.js and React Native apps that keep working on a cheap phone with a weak signal." />
+
+<br />
+
+## Featured work
+
+<p align="center">
+  <a href="https://github.com/BlessingsBlessedChongo/GoldeXpay"><img src="assets/card-goldexpay.png" width="49%" alt="GoldeXpay, a fintech backend. A payments service whose ledger stays correct when the network is slow, repeats itself or goes silent. PostgreSQL itself refuses a ledger entry that does not balance. Java 17, Spring Boot, PostgreSQL, Docker." /></a>
+  <a href="https://boardpay.vercel.app"><img src="assets/card-boardpay.png" width="49%" alt="BoardPay, a live fintech web app. The rent record for boarding houses: a mobile money receipt becomes a numbered receipt anyone can verify. AI reads the receipt, and a hash chain seals every payment. React, Django REST, Gemini, Groq." /></a>
+</p>
+<p align="center">
+  <a href="https://bloom-ten-eosin.vercel.app"><img src="assets/card-bloom.png" width="49%" alt="Bloom, a live fintech mobile app. A shared budget for couples, housemates and families, updated for everyone as it happens. Say or photograph a purchase and AI records it. React Native, Expo, Django, Groq." /></a>
+  <a href="https://github.com/BlessingsBlessedChongo/Agri-OS"><img src="assets/card-agrios.png" width="49%" alt="Agri-OS, an agritech platform. Trade and payments for smallholder farmers, with USSD menus that work on basic phones. Zero double payments under simulated network storms. Next.js, TypeScript, PostgreSQL, Drizzle." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/BlessingsBlessedChongo/veridocs"><img src="assets/card-veridocs.png" width="49%" alt="VeriDocs, document security. Institutions sign their documents; anyone checks one by QR code and gets a clear verdict. Production vulnerabilities cut from 18 to zero. Next.js, TypeScript, RSA-2048, Prisma." /></a>
+  <a href="https://blessings-peach.vercel.app"><img src="assets/card-blessings.png" width="49%" alt="Blessings, a live AI mobile app. A Christian companion that answers from the Bible and cites every verse it uses. AI chat in English, Bemba, Nyanja, Tonga and Lozi. React Native, Django, Next.js, Groq." /></a>
 </p>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,react,vue,django,dotnet,java,spring,cpp,cs,js,ts,docker,postgres,mysql,azure,gcp,git,github"/>
-
+<p align="center">
+  <sub>Source code: <a href="https://github.com/BlessingsBlessedChongo/GoldeXpay">GoldeXpay</a> · <a href="https://github.com/BlessingsBlessedChongo/BoardPay">BoardPay</a> · <a href="https://github.com/BlessingsBlessedChongo/Agri-OS">Agri-OS</a> · <a href="https://github.com/BlessingsBlessedChongo/veridocs">VeriDocs</a> · <a href="https://github.com/BlessingsBlessedChongo/NeuroSynapse">NeuroSynapse</a> (final-year project: a network that finds and fixes its own faults)</sub>
 </p>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-blessingsbchongo-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tinyurl.com/blessingsbchongo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/blessingsblessedchongo)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:blessingsblessedchongo@gmail.com)
+<br />
 
-![](https://komarev.com/ghpvc/?username=blessingsblessedchongo\&style=for-the-badge\&color=blueviolet)
+## Tools I use
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,cpp,c,php,react,nextjs,nodejs,django,spring,dotnet,postgres,docker,githubactions&perline=9" alt="TypeScript, JavaScript, Python, Java, C#, C++, C, PHP, React, Next.js, Node.js, Django, Spring Boot, .NET, PostgreSQL, Docker, GitHub Actions" />
+</p>
 
----
+<p align="center">
+  <sub>Also: LLM integration (Gemini, Groq) · PyTorch · scikit-learn · React Native (Expo) · Vue.js · Tailwind CSS · Prisma · Drizzle · Flyway · Vitest · Playwright · JUnit</sub>
+</p>
 
-# 💫 Who Am I?
+<br />
 
-I'm a **Full-Stack Software Engineer** passionate about engineering intelligent software that creates measurable impact.
+## Experience and community
 
-Whether I'm designing distributed backend services, building modern web applications, experimenting with artificial intelligence, or leading technical communities, my focus remains the same:
+<img src="assets/experience.png" width="100%" alt="Experience. Junior Software Developer at Koloso, October 2026 to now: React Native teacher app, web dashboards and a TypeScript backend; built offline mode with sync, and real-time learning games. Full-Stack Developer Intern at Uniplexity AI, July 2025 to March 2026. Software Engineer (QA) Intern at GeoNova Labs, June to August 2025. Freelance QA Tester and Engineer with uTest and Testlio, January 2024 to May 2025. Community. President of the ICTAZ CBU Chapter, 2025 to 2026, representing 800+ students. Microsoft Learn Student Ambassador since 2023: founded the MLSA CBU club and hosted 15 events. Speaker at Google Developer Groups Kitwe since 2023." />
 
-> **Build elegant solutions for difficult problems.**
+<br /><br />
 
-I enjoy turning ambitious ideas into production-ready software by combining strong engineering fundamentals with modern technologies.
-
-My experience spans the entire software development lifecycle—from gathering requirements and architecting systems to deployment, testing, optimization, and continuous improvement.
-
----
-
-# 🚀 What Drives Me
-
-I don't enjoy writing code simply because it's code.
-
-I enjoy solving problems.
-
-Every project is an opportunity to answer questions like:
-
-* How can this system become faster?
-* How can it scale to thousands of users?
-* How can it become autonomous?
-* How can developers maintain it five years from now?
-* How can technology genuinely improve someone's workflow?
-
-Those questions influence every architectural decision I make.
-
----
-
-# ⚡ Engineering Interests
-
-Artificial Intelligence
-Backend Engineering
-Software Architecture
-Distributed Systems
-Cloud Computing
-Machine Learning
-Cybersecurity
-Blockchain
-Developer Experience
-Automation
-
----
-
-# 🛠 Technical Toolbox
-
-## Languages
-
-Python • TypeScript • JavaScript • C# • Java • C++ • PHP
-
-## Frontend
-
-⚛ React
-
-🟢 Vue.js
-
-🎨 Tailwind CSS
-
-HTML5
-
-CSS3
-
-## Backend
-
-🐍 Django
-
-Flask
-
-ASP.NET
-
-Spring Boot
-
-REST APIs
-
-GraphQL
-
-Microservices
-
-Authentication & Authorization
-
-## AI Engineering
-
-PyTorch
-
-Scikit-learn
-
-Machine Learning Pipelines
-
-Reinforcement Learning
-
-Data Processing
-
-Predictive Systems
-
-## Databases
-
-PostgreSQL
-
-MySQL
-
-SQLite
-
-MongoDB
-
-## Cloud & DevOps
-
-Docker
-
-Azure
-
-Google Cloud
-
-GitHub Actions
-
-Linux
-
-Git
-
-CI/CD
-
----
-
-# 🌟 Featured Projects
-
-## 🧠 NeuroSynapse
-
-### AI-Powered Self-Healing Network Intelligence System
-
-Imagine a network capable of identifying failures, diagnosing root causes, deciding the best recovery strategy, and healing itself—all without human intervention.
-
-That is exactly what NeuroSynapse aims to achieve.
-
-### Highlights
-
-✅ Real-time anomaly detection
-
-✅ Automated fault diagnosis
-
-✅ Reinforcement-learning recovery engine
-
-✅ Dockerized deployment
-
-✅ Interactive monitoring dashboard
-
-✅ LAN-scale autonomous recovery
-
-**Tech Stack**
-
-Python • Django • Vue • Docker • PyTorch • Scikit-learn
-
----
-
-## ⛓ CBU Central Stores Management System
-
-### Blockchain Inventory Management Platform
-
-Developed to modernize Copperbelt University's Central Stores through blockchain technology.
-
-The system replaces manual spreadsheet workflows with a transparent, tamper-proof inventory platform.
-
-### Features
-
-* Smart Contracts
-* Immutable Audit Logs
-* Digital Approval Workflow
-* Inventory Analytics
-* Role-Based Security
-* Department Integration
-
----
-
-# 💼 Professional Experience
-
-### 🚀 Full-Stack Software Developer
-
-**Uniplexity AI**
-
-Worked across frontend, backend, databases, and AI-powered applications.
-
-Contributed to production systems while collaborating inside Agile engineering teams.
-
----
-
-### 🧪 Software Engineer (QA)
-
-**GeoNova Labs**
-
-Improved software quality through rigorous testing, debugging, and release validation.
-
-Worked closely with developers to improve reliability before production deployment.
-
----
-
-### 🌍 Freelance Software Engineer & QA
-
-Worked with international clients delivering
-
-* Web Applications
-* Mobile Testing
-* Bug Investigation
-* Performance Testing
-* Technical Solutions
-
----
-
-# 👑 Leadership
-
-Technology is most powerful when knowledge is shared.
-
-Outside software engineering, I invest heavily in developer communities.
-
-### Current Roles
-
-👑 President — ICTAZ CBU Chapter
-
-🎓 Microsoft Learn Student Ambassador
-
-🎤 Google Developer Groups Speaker
-
-🌍 Open Source Contributor
-
-👨‍🏫 Technical Mentor
-
-Through these roles I've organized hackathons, workshops, certification bootcamps, developer meetups, and technical mentorship programs impacting hundreds of students.
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=blessingsblessedchongo&theme=tokyonight&hide_border=true" />
-
-</div>
----
-
-# 🌱 Currently Learning
-
-* AI Agents
-* Multi-Agent Systems
-* Kubernetes
-* MLOps
-* Distributed Systems
-* Event-Driven Architecture
-* Cloud Native Engineering
-
----
-
-# 🤝 Let's Build Something Great
-
-I'm always excited to collaborate on
-
-* Open Source
-* Research Projects
-* Artificial Intelligence
-* Full-Stack Applications
-* Backend Systems
-* Cloud Infrastructure
-* Startup Ideas
-* Developer Communities
-
-If you're building something meaningful, let's connect.
-
----
-
-<div align="center">
-
-### 💭 Engineering Philosophy
-
-> *"Good software is more than code. It's thoughtful design, maintainable architecture, meaningful collaboration, and continuous learning."*
-
----
-
-⭐ **Thanks for visiting my profile!**
-
-*"Code with purpose. Build with passion. Learn without limits."*
-
-</div>
+<a href="mailto:blessingsblessedchongo@gmail.com"><img src="assets/contact.png" width="100%" alt="Open to remote, part-time and freelance work in backend, full-stack and AI engineering. Email blessingsblessedchongo@gmail.com" /></a>
