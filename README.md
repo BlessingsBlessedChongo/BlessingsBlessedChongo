@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://portfolio-repo-khaki.vercel.app"><img src="assets/header.svg" width="100%" alt="I build AI-powered products and payment systems that stay correct when things go wrong. Software Engineer and AI Engineer, open to remote, part-time and freelance work. 20 projects built, 6 live apps, 800+ students led, 15 events hosted." /></a>
+<a href="https://portfolio-repo-khaki.vercel.app"><img src="assets/header.svg" width="100%" alt="I build AI-powered products and payment systems that stay correct when things go wrong. Software Engineer and AI Engineer, open to remote, part-time and freelance work. 20 projects built, 8 live apps, 800+ students led, 15 events hosted." /></a>
 
 <a href="https://portfolio-repo-khaki.vercel.app"><img src="assets/btn-portfolio.png" height="44" alt="Portfolio" /></a>&nbsp;
 <a href="https://portfolio-repo-khaki.vercel.app/Blessings_Chongo_Resume.pdf"><img src="assets/btn-resume.png" height="44" alt="Resume" /></a>&nbsp;
@@ -11,23 +11,26 @@
 
 ## What I do
 
-<img src="assets/what-i-do.webp" width="100%" alt="AI engineering: language models at work inside real products, reading receipts from photos, turning speech into data and answering with cited sources. Backend and payments: double-entry ledgers, idempotent APIs, signed webhooks and reconciliation, with the rules enforced by the database. Full-stack and mobile: React, Next.js and React Native apps that keep working on a cheap phone with a weak signal." />
+<img src="assets/what-i-do.webp" width="100%" alt="AI engineering: language models held to rules inside real products, reading receipts and handwriting, writing questions from your notes and marking against a scheme. Backend and payments: Java and C# services with double-entry ledgers, idempotent APIs and signed webhooks, the rules enforced by the database. Full-stack and mobile: React, Next.js and React Native apps that keep working on a cheap phone with a weak signal." />
 
 ## Featured work
 
 <p align="center">
+  <a href="https://edupulse-phf2.onrender.com"><img src="assets/card-edupulse.webp" width="49%" alt="EduPulse, a live AI web app. A study coach that turns your own notes into daily practice questions in your lecturer's style and marks your answers, even a photo of handwritten maths. Maths is marked by calculation, not by opinion, and every question is traced to your own page. C#, ASP.NET Core, PostgreSQL, React." /></a>
   <a href="https://goldexpay.onrender.com"><img src="assets/card-goldexpay.webp" width="49%" alt="GoldeXpay, a live fintech backend. A payments service whose ledger stays correct when the network is slow, repeats itself or goes silent. PostgreSQL itself refuses a ledger entry that does not balance. Java 17, Spring Boot, PostgreSQL, Docker." /></a>
+  <br />
   <a href="https://boardpay.vercel.app"><img src="assets/card-boardpay.webp" width="49%" alt="BoardPay, a live fintech web app. The rent record for boarding houses: a mobile money receipt becomes a numbered receipt anyone can verify. AI reads the receipt, and a hash chain seals every payment. React, Django REST, Gemini, Groq." /></a>
-<br />
+  <a href="https://veridocs-blue.vercel.app"><img src="assets/card-veridocs.webp" width="49%" alt="VeriDocs, live document security. Institutions sign their documents; anyone checks one by QR code and gets a clear verdict. Change one byte of a signed document and it fails. Next.js, TypeScript, RSA-2048, Prisma." /></a>
+  <br />
   <a href="https://bloom-ten-eosin.vercel.app"><img src="assets/card-bloom.webp" width="49%" alt="Bloom, a live fintech mobile app. A shared budget for couples, housemates and families, updated for everyone as it happens. Say or photograph a purchase and AI records it. React Native, Expo, Django, Groq." /></a>
-  <a href="https://github.com/BlessingsBlessedChongo/Agri-OS"><img src="assets/card-agrios.webp" width="49%" alt="Agri-OS, an agritech platform. Trade and payments for smallholder farmers, with USSD menus that work on basic phones. Zero double payments under simulated network storms. Next.js, TypeScript, PostgreSQL, Drizzle." /></a>
-<br />
-  <a href="https://github.com/BlessingsBlessedChongo/veridocs"><img src="assets/card-veridocs.webp" width="49%" alt="VeriDocs, document security. Institutions sign their documents; anyone checks one by QR code and gets a clear verdict. Production vulnerabilities cut from 18 to zero. Next.js, TypeScript, RSA-2048, Prisma." /></a>
   <a href="https://blessings-peach.vercel.app"><img src="assets/card-blessings.webp" width="49%" alt="Blessings, a live AI mobile app. A Christian companion that answers from the Bible and cites every verse it uses. AI chat in English, Bemba, Nyanja, Tonga and Lozi. React Native, Django, Next.js, Groq." /></a>
+  <br />
+  <a href="https://github.com/BlessingsBlessedChongo/Agri-OS"><img src="assets/card-agrios.webp" width="49%" alt="Agri-OS, an agritech platform. Trade and payments for smallholder farmers, with USSD menus that work on basic phones. Zero double payments under simulated network storms. Next.js, TypeScript, PostgreSQL, Drizzle." /></a>
+  <a href="https://github.com/BlessingsBlessedChongo/NeuroSynapse"><img src="assets/card-neurosynapse.webp" width="49%" alt="NeuroSynapse, AI and networking. A network monitor that finds failures and attacks on a LAN, then picks and applies the fix itself. Over 90% anomaly-detection accuracy. Python, PyTorch, scikit-learn, Docker." /></a>
 </p>
 
 <p align="center">
-  <sub>Source code: <a href="https://github.com/BlessingsBlessedChongo/GoldeXpay">GoldeXpay</a> · <a href="https://github.com/BlessingsBlessedChongo/Agri-OS">Agri-OS</a> · <a href="https://github.com/BlessingsBlessedChongo/veridocs">VeriDocs</a> · <a href="https://github.com/BlessingsBlessedChongo/NeuroSynapse">NeuroSynapse</a> (final-year project: a network that finds and fixes its own faults)</sub>
+  <sub>Six of these are live: click a card to open it. Source code: <a href="https://github.com/BlessingsBlessedChongo/EduPulse">EduPulse</a> · <a href="https://github.com/BlessingsBlessedChongo/GoldeXpay">GoldeXpay</a> · <a href="https://github.com/BlessingsBlessedChongo/veridocs">VeriDocs</a> · <a href="https://github.com/BlessingsBlessedChongo/Agri-OS">Agri-OS</a> · <a href="https://github.com/BlessingsBlessedChongo/NeuroSynapse">NeuroSynapse</a></sub>
 </p>
 
 ## Tools I use
