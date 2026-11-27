@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://portfolio-repo-khaki.vercel.app"><img src="assets/header.svg" width="100%" alt="I build AI-powered products and payment systems that stay correct when things go wrong. Software Engineer and AI Engineer, open to remote, part-time and freelance work. 21 projects built, 9 live apps, 800+ students led, 15 events hosted." /></a>
+<a href="https://portfolio-repo-khaki.vercel.app"><img src="assets/banner.svg" width="100%" alt="I build AI-powered products and payment systems that stay correct when things go wrong. Software Engineer and AI Engineer, open to remote, part-time and freelance work. 21 projects built, 9 live apps, 800+ students led, 15 events hosted." /></a>
 
 <a href="https://portfolio-repo-khaki.vercel.app"><img src="assets/btn-portfolio.png" height="44" alt="Portfolio" /></a>&nbsp;
 <a href="https://portfolio-repo-khaki.vercel.app/Blessings_Chongo_Resume.pdf"><img src="assets/btn-resume.png" height="44" alt="Resume" /></a>&nbsp;
