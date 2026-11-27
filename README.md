@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <sub>Source code: <a href="https://github.com/BlessingsBlessedChongo/GoldeXpay">GoldeXpay</a> · <a href="https://github.com/BlessingsBlessedChongo/BoardPay">BoardPay</a> · <a href="https://github.com/BlessingsBlessedChongo/Agri-OS">Agri-OS</a> · <a href="https://github.com/BlessingsBlessedChongo/veridocs">VeriDocs</a> · <a href="https://github.com/BlessingsBlessedChongo/NeuroSynapse">NeuroSynapse</a> (final-year project: a network that finds and fixes its own faults)</sub>
+  <sub>Source code: <a href="https://github.com/BlessingsBlessedChongo/GoldeXpay">GoldeXpay</a> · <a href="https://github.com/BlessingsBlessedChongo/Agri-OS">Agri-OS</a> · <a href="https://github.com/BlessingsBlessedChongo/veridocs">VeriDocs</a> · <a href="https://github.com/BlessingsBlessedChongo/NeuroSynapse">NeuroSynapse</a> (final-year project: a network that finds and fixes its own faults)</sub>
 </p>
 
 ## Tools I use
