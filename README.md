@@ -25,12 +25,14 @@
   <a href="https://bloom-ten-eosin.vercel.app"><img src="assets/card-bloom.webp" width="49%" alt="Bloom, a live fintech mobile app. A shared budget for couples, housemates and families, updated for everyone as it happens. Say or photograph a purchase and AI records it. React Native, Expo, Django, Groq." /></a>
   <a href="https://blessings-peach.vercel.app"><img src="assets/card-blessings.webp" width="49%" alt="Blessings, a live AI mobile app. A Christian companion that answers from the Bible and cites every verse it uses. AI chat in English, Bemba, Nyanja, Tonga and Lozi. React Native, Django, Next.js, Groq." /></a>
   <br />
-  <a href="https://github.com/BlessingsBlessedChongo/Agri-OS"><img src="assets/card-agrios.webp" width="49%" alt="Agri-OS, an agritech platform. Trade and payments for smallholder farmers, with USSD menus that work on basic phones. Zero double payments under simulated network storms. Next.js, TypeScript, PostgreSQL, Drizzle." /></a>
+  <a href="https://iris-belt-monitor.vercel.app"><img src="assets/card-iris.webp" width="49%" alt="IRIS, live computer vision. A camera watches a conveyor belt for tears and holes, alarms the operator and stops the belt on a confirmed tear. No false alarm on 66 undamaged test pictures. PyTorch, ONNX Runtime Web, TypeScript, Modbus TCP." /></a>
   <a href="https://github.com/BlessingsBlessedChongo/NeuroSynapse"><img src="assets/card-neurosynapse.webp" width="49%" alt="NeuroSynapse, AI and networking. A network monitor that finds failures and attacks on a LAN, then picks and applies the fix itself. Over 90% anomaly-detection accuracy. Python, PyTorch, scikit-learn, Docker." /></a>
+  <br />
+  <a href="https://github.com/BlessingsBlessedChongo/Agri-OS"><img src="assets/card-agrios.webp" width="49%" alt="Agri-OS, an agritech platform. Trade and payments for smallholder farmers, with USSD menus that work on basic phones. Zero double payments under simulated network storms. Next.js, TypeScript, PostgreSQL, Drizzle." /></a>
 </p>
 
 <p align="center">
-  <sub>Six of these are live: click a card to open it. Source code: <a href="https://github.com/BlessingsBlessedChongo/EduPulse">EduPulse</a> · <a href="https://github.com/BlessingsBlessedChongo/GoldeXpay">GoldeXpay</a> · <a href="https://github.com/BlessingsBlessedChongo/veridocs">VeriDocs</a> · <a href="https://github.com/BlessingsBlessedChongo/Agri-OS">Agri-OS</a> · <a href="https://github.com/BlessingsBlessedChongo/NeuroSynapse">NeuroSynapse</a></sub>
+  <sub>Seven of these are live: click a card to open it. Source code: <a href="https://github.com/BlessingsBlessedChongo/EduPulse">EduPulse</a> · <a href="https://github.com/BlessingsBlessedChongo/GoldeXpay">GoldeXpay</a> · <a href="https://github.com/BlessingsBlessedChongo/veridocs">VeriDocs</a> · <a href="https://github.com/BlessingsBlessedChongo/IRIS">IRIS</a> · <a href="https://github.com/BlessingsBlessedChongo/Agri-OS">Agri-OS</a> · <a href="https://github.com/BlessingsBlessedChongo/NeuroSynapse">NeuroSynapse</a></sub>
 </p>
 
 ## Tools I use
