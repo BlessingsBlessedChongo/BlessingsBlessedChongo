@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://portfolio-repo-khaki.vercel.app"><img src="assets/header.svg" width="100%" alt="I build AI-powered products and payment systems that stay correct when things go wrong. Software Engineer and AI Engineer, open to remote, part-time and freelance work. 20 projects built, 5 live apps, 800+ students led, 15 events hosted." /></a>
+<a href="https://portfolio-repo-khaki.vercel.app"><img src="assets/header.svg" width="100%" alt="I build AI-powered products and payment systems that stay correct when things go wrong. Software Engineer and AI Engineer, open to remote, part-time and freelance work. 20 projects built, 6 live apps, 800+ students led, 15 events hosted." /></a>
 
 <a href="https://portfolio-repo-khaki.vercel.app"><img src="assets/btn-portfolio.png" height="44" alt="Portfolio" /></a>&nbsp;
 <a href="https://portfolio-repo-khaki.vercel.app/Blessings_Chongo_Resume.pdf"><img src="assets/btn-resume.png" height="44" alt="Resume" /></a>&nbsp;
@@ -16,7 +16,7 @@
 ## Featured work
 
 <p align="center">
-  <a href="https://github.com/BlessingsBlessedChongo/GoldeXpay"><img src="assets/card-goldexpay.webp" width="49%" alt="GoldeXpay, a fintech backend. A payments service whose ledger stays correct when the network is slow, repeats itself or goes silent. PostgreSQL itself refuses a ledger entry that does not balance. Java 17, Spring Boot, PostgreSQL, Docker." /></a>
+  <a href="https://goldexpay.onrender.com"><img src="assets/card-goldexpay.webp" width="49%" alt="GoldeXpay, a live fintech backend. A payments service whose ledger stays correct when the network is slow, repeats itself or goes silent. PostgreSQL itself refuses a ledger entry that does not balance. Java 17, Spring Boot, PostgreSQL, Docker." /></a>
   <a href="https://boardpay.vercel.app"><img src="assets/card-boardpay.webp" width="49%" alt="BoardPay, a live fintech web app. The rent record for boarding houses: a mobile money receipt becomes a numbered receipt anyone can verify. AI reads the receipt, and a hash chain seals every payment. React, Django REST, Gemini, Groq." /></a>
 <br />
   <a href="https://bloom-ten-eosin.vercel.app"><img src="assets/card-bloom.webp" width="49%" alt="Bloom, a live fintech mobile app. A shared budget for couples, housemates and families, updated for everyone as it happens. Say or photograph a purchase and AI records it. React Native, Expo, Django, Groq." /></a>
